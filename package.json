@@ -1,5 +1,6 @@
 
 {
+  "homepage": "https://kidus-feleke.github.io/monster-rolodex",
   "name": "rolodex",
   "version": "0.1.0",
   "private": true,
@@ -10,8 +11,8 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://kidus-feleke.github.io/monster-rolodex"
+    "web-vitals": "^2.1.4"
+    
   },
   "scripts": {
     "start": "react-scripts start",
